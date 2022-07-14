@@ -1,0 +1,141 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+
+header{
+    padding-top: 150px;
+    background-size: cover;
+    height: 450px;
+    background-image: url(images/donation18.png);
+    margin-bottom: 50px;
+}
+.header-tag{
+    margin-left: 100px;
+    color: white;
+    font-size: 50px;
+}
+.header-p{
+    color: white;
+    margin-left: 100px;
+}
+.donate-button{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.section1{
+    display: flex;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+    
+}
+.image1{
+    margin-top: 50px;
+    width: 300px;
+    height: 250px;
+    border-radius: 10px;
+    
+}
+.explore{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 30px;
+    margin-right: 30px;
+    height: 300px;
+}
+.explore-button{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(blue, rgb(21, 21, 113));
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+#bold{
+    font-size: 30px;
+}
+.section3{
+    text-align: center;
+    margin-top: 200px;
+
+}
+.section3-h{
+    font-weight: bold;
+    font-size: 30px;
+}
+.article{
+    display: flex;
+    width: 250px;
+    height: 150px;
+    background-color: #FEF4F5;
+    padding: 20px;
+    margin: 5px;
+    border-radius: 5px;
+}
+.icon{
+    margin-top: 30px;
+    margin-right: 20px;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+}
+#gellary{
+    margin: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+.gellary-image{
+    margin: 10px;
+    height: 200px;
+    width: 250px;
+    border-radius: 10px;
+}
+.section5-h{
+    text-align: center;
+}
+.exact{
+    margin: 10px;
+    border: 1px solid gray;
+    background-color: antiquewhite;
+    width: 250px;
+    border-radius: 5px 5px 5px 5px;
+}
+.exact-image{
+    width: 250px;
+    border-radius: 5px 5px 0px 0px;
+}
+.exact-text{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.exact-button{
+    display: inline-block;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    color: red;
+    font-weight: 700;
+}
+.exact-section{
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    display: flex;
+}
+footer{
+    color: #EF233C;
+    background-color: black;
+    height: 100px;
+    text-align: center;
+}
